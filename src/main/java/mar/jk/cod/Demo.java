@@ -6,6 +6,8 @@ public class Demo {
 		Student s = new Student(1, "Mark");
 		System.out.println(s.toString());
 
+		Student s2 = new Student(2, "Mark2");
+		System.out.println(s2.toString());
 	}
 
 }
