@@ -23,6 +23,6 @@ public class SampleTest {
 	@Test
 	public void testSomeFunc() {
 		Student s = new Student(2, "diego");
-		assertEquals(8, s.someFunc(4));
+		assertEquals(9, s.someFunc(4));
 	}
 }
