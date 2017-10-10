@@ -33,6 +33,9 @@ public class Student {
 
 	public String toString() {
 		return id + " " + name;
-
+	}
+	
+	public int someFunc(int a) {
+		return a*2;
 	}
 }
